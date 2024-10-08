@@ -1,0 +1,7 @@
+C:\Users\quant\source\repos\Lab1\bai4_btvn\bin\Debug\bai4_btvn.exe.config
+C:\Users\quant\source\repos\Lab1\bai4_btvn\bin\Debug\bai4_btvn.exe
+C:\Users\quant\source\repos\Lab1\bai4_btvn\bin\Debug\bai4_btvn.pdb
+C:\Users\quant\source\repos\Lab1\bai4_btvn\obj\Debug\bai4_btvn.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\Lab1\bai4_btvn\obj\Debug\bai4_btvn.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Lab1\bai4_btvn\obj\Debug\bai4_btvn.exe
+C:\Users\quant\source\repos\Lab1\bai4_btvn\obj\Debug\bai4_btvn.pdb

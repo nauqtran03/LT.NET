@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\dahinh\dahinh\bin\Debug\net8.0\dahinh.exe
+C:\Users\quant\source\repos\dahinh\dahinh\bin\Debug\net8.0\dahinh.deps.json
+C:\Users\quant\source\repos\dahinh\dahinh\bin\Debug\net8.0\dahinh.runtimeconfig.json
+C:\Users\quant\source\repos\dahinh\dahinh\bin\Debug\net8.0\dahinh.dll
+C:\Users\quant\source\repos\dahinh\dahinh\bin\Debug\net8.0\dahinh.pdb
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.AssemblyInfo.cs
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.dll
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\refint\dahinh.dll
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.pdb
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\dahinh.genruntimeconfig.cache
+C:\Users\quant\source\repos\dahinh\dahinh\obj\Debug\net8.0\ref\dahinh.dll

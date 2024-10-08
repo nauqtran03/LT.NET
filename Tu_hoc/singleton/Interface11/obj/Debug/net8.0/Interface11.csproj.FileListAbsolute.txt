@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\singleton\Interface11\bin\Debug\net8.0\Interface11.exe
+C:\Users\quant\source\repos\singleton\Interface11\bin\Debug\net8.0\Interface11.deps.json
+C:\Users\quant\source\repos\singleton\Interface11\bin\Debug\net8.0\Interface11.runtimeconfig.json
+C:\Users\quant\source\repos\singleton\Interface11\bin\Debug\net8.0\Interface11.dll
+C:\Users\quant\source\repos\singleton\Interface11\bin\Debug\net8.0\Interface11.pdb
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.AssemblyInfo.cs
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.dll
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\refint\Interface11.dll
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.pdb
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\Interface11.genruntimeconfig.cache
+C:\Users\quant\source\repos\singleton\Interface11\obj\Debug\net8.0\ref\Interface11.dll

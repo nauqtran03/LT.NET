@@ -1,0 +1,4 @@
+C:\Users\quant\source\repos\singleton\interface\obj\Debug\net8.0\iterface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\singleton\interface\obj\Debug\net8.0\iterface1.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\singleton\interface\obj\Debug\net8.0\iterface1.AssemblyInfo.cs
+C:\Users\quant\source\repos\singleton\interface\obj\Debug\net8.0\iterface1.csproj.CoreCompileInputs.cache

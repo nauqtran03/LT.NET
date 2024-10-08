@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\linq2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A48C134D-0C6D-43FE-ADE6-43A4E5069541}|luyentap2\\luyentap2.csproj|c:\\users\\quant\\source\\repos\\linq2\\luyentap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48C134D-0C6D-43FE-ADE6-43A4E5069541}|luyentap2\\luyentap2.csproj|solutionrelative:luyentap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48C134D-0C6D-43FE-ADE6-43A4E5069541}|luyentap2\\luyentap2.csproj|c:\\users\\quant\\source\\repos\\linq2\\luyentap2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48C134D-0C6D-43FE-ADE6-43A4E5069541}|luyentap2\\luyentap2.csproj|solutionrelative:luyentap2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE8C0A4-3CDF-4FEA-B6B9-0B319B6F69F9}|luyentap1\\luyentap1.csproj|c:\\users\\quant\\source\\repos\\linq2\\luyentap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE8C0A4-3CDF-4FEA-B6B9-0B319B6F69F9}|luyentap1\\luyentap1.csproj|solutionrelative:luyentap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD64DB9-C6F6-435C-B7CF-4F14723EFD8C}|linq2\\linq2.csproj|c:\\users\\quant\\source\\repos\\linq2\\linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD64DB9-C6F6-435C-B7CF-4F14723EFD8C}|linq2\\linq2.csproj|solutionrelative:linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD64DB9-C6F6-435C-B7CF-4F14723EFD8C}|linq2\\linq2.csproj|c:\\users\\quant\\source\\repos\\linq2\\linq2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD64DB9-C6F6-435C-B7CF-4F14723EFD8C}|linq2\\linq2.csproj|solutionrelative:linq2\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE8C0A4-3CDF-4FEA-B6B9-0B319B6F69F9}|luyentap1\\luyentap1.csproj|c:\\users\\quant\\source\\repos\\linq2\\luyentap1\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE8C0A4-3CDF-4FEA-B6B9-0B319B6F69F9}|luyentap1\\luyentap1.csproj|solutionrelative:luyentap1\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap2\\Student.cs",
+              "RelativeDocumentMoniker": "luyentap2\\Student.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap2\\Student.cs",
+              "RelativeToolTip": "luyentap2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:52:01.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap2\\Program.cs",
+              "RelativeDocumentMoniker": "luyentap2\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap2\\Program.cs",
+              "RelativeToolTip": "luyentap2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:51:25.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiangVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap1\\GiangVien.cs",
+              "RelativeDocumentMoniker": "luyentap1\\GiangVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap1\\GiangVien.cs",
+              "RelativeToolTip": "luyentap1\\GiangVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:30:50.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap1\\Program.cs",
+              "RelativeDocumentMoniker": "luyentap1\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\luyentap1\\Program.cs",
+              "RelativeToolTip": "luyentap1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:30:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\linq2\\Students.cs",
+              "RelativeDocumentMoniker": "linq2\\Students.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\linq2\\Students.cs",
+              "RelativeToolTip": "linq2\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:05:16.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\linq2\\linq2\\Program.cs",
+              "RelativeDocumentMoniker": "linq2\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\linq2\\linq2\\Program.cs",
+              "RelativeToolTip": "linq2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:04:46.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

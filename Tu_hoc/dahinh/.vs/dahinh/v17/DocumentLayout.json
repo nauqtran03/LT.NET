@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\dahinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|c:\\users\\quant\\source\\repos\\dahinh\\dahinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|solutionrelative:dahinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|c:\\users\\quant\\source\\repos\\dahinh\\dahinh\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|solutionrelative:dahinh\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|c:\\users\\quant\\source\\repos\\dahinh\\dahinh\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|solutionrelative:dahinh\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|c:\\users\\quant\\source\\repos\\dahinh\\dahinh\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|solutionrelative:dahinh\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|c:\\users\\quant\\source\\repos\\dahinh\\dahinh\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDD2EB6-6C14-490E-A03F-DC0C2CAC6DCC}|dahinh\\dahinh.csproj|solutionrelative:dahinh\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Bird.cs",
+              "RelativeDocumentMoniker": "dahinh\\Bird.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Bird.cs",
+              "RelativeToolTip": "dahinh\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:03:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Fish.cs",
+              "RelativeDocumentMoniker": "dahinh\\Fish.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Fish.cs",
+              "RelativeToolTip": "dahinh\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:02:06.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Dog.cs",
+              "RelativeDocumentMoniker": "dahinh\\Dog.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Dog.cs",
+              "RelativeToolTip": "dahinh\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:52:48.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Animal.cs",
+              "RelativeDocumentMoniker": "dahinh\\Animal.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Animal.cs",
+              "RelativeToolTip": "dahinh\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:52:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Program.cs",
+              "RelativeDocumentMoniker": "dahinh\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\dahinh\\dahinh\\Program.cs",
+              "RelativeToolTip": "dahinh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:50:58.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

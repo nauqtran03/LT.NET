@@ -1,0 +1,10 @@
+C:\Users\quant\source\repos\lab4\vidu1\bin\Debug\vidu1.exe.config
+C:\Users\quant\source\repos\lab4\vidu1\bin\Debug\vidu1.exe
+C:\Users\quant\source\repos\lab4\vidu1\bin\Debug\vidu1.pdb
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.Form1.resources
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.Properties.Resources.resources
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.exe
+C:\Users\quant\source\repos\lab4\vidu1\obj\Debug\vidu1.pdb

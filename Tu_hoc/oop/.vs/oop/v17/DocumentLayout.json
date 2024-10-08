@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\oop\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\oop\\bai1\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|solutionrelative:bai1\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\oop\\bai1\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC64C14-709F-4650-A848-F9F348FA4629}|bai1\\bai1.csproj|solutionrelative:bai1\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|c:\\users\\quant\\source\\repos\\oop\\bai3\\bai3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|solutionrelative:bai3\\bai3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\oop\\bai2\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|solutionrelative:bai2\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\oop\\bai2\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|solutionrelative:bai2\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\oop\\bai2\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|solutionrelative:bai2\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\oop\\bai2\\bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|solutionrelative:bai2\\bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|c:\\users\\quant\\source\\repos\\oop\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|c:\\users\\quant\\source\\repos\\oop\\bai3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|solutionrelative:bai3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|c:\\users\\quant\\source\\repos\\oop\\bai3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|solutionrelative:bai3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|c:\\users\\quant\\source\\repos\\oop\\bai3\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D2CC6-50BF-4A04-8423-CB42D1EE82A6}|bai3\\bai3.csproj|solutionrelative:bai3\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\oop\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265877CB-33A3-49F9-8C73-0874321074C9}|bai2\\bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E82FB2-0D77-4E2A-BB9D-2D643679CC22}|oop\\oop.csproj|c:\\users\\quant\\source\\repos\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E82FB2-0D77-4E2A-BB9D-2D643679CC22}|oop\\oop.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai3",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\bai3.csproj",
+              "RelativeDocumentMoniker": "bai3\\bai3.csproj",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\bai3.csproj",
+              "RelativeToolTip": "bai3\\bai3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T21:00:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bai2",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\bai2.csproj",
+              "RelativeDocumentMoniker": "bai2\\bai2.csproj",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\bai2.csproj",
+              "RelativeToolTip": "bai2\\bai2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T21:00:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Library.cs",
+              "RelativeDocumentMoniker": "bai3\\Library.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Library.cs",
+              "RelativeToolTip": "bai3\\Library.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:23:16.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Reader.cs",
+              "RelativeDocumentMoniker": "bai3\\Reader.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Reader.cs",
+              "RelativeToolTip": "bai3\\Reader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:08:30.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Book.cs",
+              "RelativeDocumentMoniker": "bai3\\Book.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Book.cs",
+              "RelativeToolTip": "bai3\\Book.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:58:00.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:43:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhVuong.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhVuong.cs",
+              "RelativeDocumentMoniker": "bai2\\HinhVuong.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhVuong.cs",
+              "RelativeToolTip": "bai2\\HinhVuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:18:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhTron.cs",
+              "RelativeDocumentMoniker": "bai2\\HinhTron.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhTron.cs",
+              "RelativeToolTip": "bai2\\HinhTron.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:11:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HinhHoc.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhHoc.cs",
+              "RelativeDocumentMoniker": "bai2\\HinhHoc.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\HinhHoc.cs",
+              "RelativeToolTip": "bai2\\HinhHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:09:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\Program.cs",
+              "RelativeDocumentMoniker": "bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai2\\Program.cs",
+              "RelativeToolTip": "bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:09:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\DanhSachSinhVien.cs",
+              "RelativeDocumentMoniker": "bai1\\DanhSachSinhVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\DanhSachSinhVien.cs",
+              "RelativeToolTip": "bai1\\DanhSachSinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:55:13.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\SinhVien.cs",
+              "RelativeDocumentMoniker": "bai1\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\SinhVien.cs",
+              "RelativeToolTip": "bai1\\SinhVien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:42:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\bai1\\Program.cs",
+              "RelativeToolTip": "bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:35:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeDocumentMoniker": "oop\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeToolTip": "oop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:34:46.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

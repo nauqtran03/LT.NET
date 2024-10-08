@@ -1,0 +1,10 @@
+C:\Users\quant\source\repos\lab4\bai2_btvn\bin\Debug\bai2_btvn.exe.config
+C:\Users\quant\source\repos\lab4\bai2_btvn\bin\Debug\bai2_btvn.exe
+C:\Users\quant\source\repos\lab4\bai2_btvn\bin\Debug\bai2_btvn.pdb
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.Form1.resources
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.Properties.Resources.resources
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.exe
+C:\Users\quant\source\repos\lab4\bai2_btvn\obj\Debug\bai2_btvn.pdb

@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\singleton\singleton1\bin\Debug\net8.0\singleton1.exe
+C:\Users\quant\source\repos\singleton\singleton1\bin\Debug\net8.0\singleton1.deps.json
+C:\Users\quant\source\repos\singleton\singleton1\bin\Debug\net8.0\singleton1.runtimeconfig.json
+C:\Users\quant\source\repos\singleton\singleton1\bin\Debug\net8.0\singleton1.dll
+C:\Users\quant\source\repos\singleton\singleton1\bin\Debug\net8.0\singleton1.pdb
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.AssemblyInfo.cs
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.dll
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\refint\singleton1.dll
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.pdb
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\singleton1.genruntimeconfig.cache
+C:\Users\quant\source\repos\singleton\singleton1\obj\Debug\net8.0\ref\singleton1.dll

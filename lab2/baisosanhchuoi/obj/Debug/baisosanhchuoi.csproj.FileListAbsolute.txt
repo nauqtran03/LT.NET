@@ -1,0 +1,7 @@
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\bin\Debug\baisosanhchuoi.exe.config
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\bin\Debug\baisosanhchuoi.exe
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\bin\Debug\baisosanhchuoi.pdb
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\obj\Debug\baisosanhchuoi.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\obj\Debug\baisosanhchuoi.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\obj\Debug\baisosanhchuoi.exe
+C:\Users\quant\source\repos\lab2\baisosanhchuoi\obj\Debug\baisosanhchuoi.pdb

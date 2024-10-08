@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\NCommands\NFind\bin\Debug\net8.0\nfind.exe
+C:\Users\quant\source\repos\NCommands\NFind\bin\Debug\net8.0\nfind.deps.json
+C:\Users\quant\source\repos\NCommands\NFind\bin\Debug\net8.0\nfind.runtimeconfig.json
+C:\Users\quant\source\repos\NCommands\NFind\bin\Debug\net8.0\nfind.dll
+C:\Users\quant\source\repos\NCommands\NFind\bin\Debug\net8.0\nfind.pdb
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\NFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\NFind.AssemblyInfo.cs
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\NFind.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\nfind.dll
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\refint\nfind.dll
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\nfind.pdb
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\NFind.genruntimeconfig.cache
+C:\Users\quant\source\repos\NCommands\NFind\obj\Debug\net8.0\ref\nfind.dll

@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai5_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|solutionrelative:bai5_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai5_btvn\\khachhangvietnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|solutionrelative:bai5_btvn\\khachhangvietnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai5_btvn\\khachhangnuocngoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|solutionrelative:bai5_btvn\\khachhangnuocngoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai5_btvn\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314E4F94-DB47-40D8-A2E8-E8A7951CEAE8}|bai5_btvn\\bai5_btvn.csproj|solutionrelative:bai5_btvn\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai4_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|solutionrelative:bai4_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai4_btvn\\hanhkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|solutionrelative:bai4_btvn\\hanhkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai4_btvn\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|solutionrelative:bai4_btvn\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai4_btvn\\vemaybay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337D33-6A6F-4342-B395-21BAB46AE7C7}|bai4_btvn\\bai4_btvn.csproj|solutionrelative:bai4_btvn\\vemaybay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2343-ACA3-40EC-AF80-C5CF7F27B0C5}|bai3_btvn\\bai3_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai3_btvn\\vandongvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2343-ACA3-40EC-AF80-C5CF7F27B0C5}|bai3_btvn\\bai3_btvn.csproj|solutionrelative:bai3_btvn\\vandongvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD2343-ACA3-40EC-AF80-C5CF7F27B0C5}|bai3_btvn\\bai3_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai3_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2343-ACA3-40EC-AF80-C5CF7F27B0C5}|bai3_btvn\\bai3_btvn.csproj|solutionrelative:bai3_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|C:\\Users\\quant\\source\\repos\\Lab1\\bai2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|solutionrelative:bai2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D4CFDC-CA48-4226-9F99-50DE0C923675}|bai2_btvn\\bai2_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai2_btvn\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D4CFDC-CA48-4226-9F99-50DE0C923675}|bai2_btvn\\bai2_btvn.csproj|solutionrelative:bai2_btvn\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D4CFDC-CA48-4226-9F99-50DE0C923675}|bai2_btvn\\bai2_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai2_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D4CFDC-CA48-4226-9F99-50DE0C923675}|bai2_btvn\\bai2_btvn.csproj|solutionrelative:bai2_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai1_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|solutionrelative:bai1_btvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai1_btvn\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|solutionrelative:bai1_btvn\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai1_btvn\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{E05B9A1E-359A-4782-8608-A417F7819099}|bai1_btvn\\bai1_btvn.csproj|solutionrelative:bai1_btvn\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|C:\\Users\\quant\\source\\repos\\Lab1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|c:\\users\\quant\\source\\repos\\lab1\\bai2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|solutionrelative:bai2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|C:\\Users\\quant\\source\\repos\\Lab1\\bai2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8AADEF-0758-423F-8028-A0040FFEEA82}|Bai2\\Bai2.csproj|solutionrelative:bai2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4E6EF9-D4D6-4E85-A18B-740DBA104F69}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\Lab1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4E6EF9-D4D6-4E85-A18B-740DBA104F69}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangVietNam.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHangVietNam.cs",
+              "RelativeDocumentMoniker": "bai5_btvn\\KhachHangVietNam.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHangVietNam.cs",
+              "RelativeToolTip": "bai5_btvn\\KhachHangVietNam.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvwgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:05:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHangNuocNgoai.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHangNuocNgoai.cs",
+              "RelativeDocumentMoniker": "bai5_btvn\\KhachHangNuocNgoai.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHangNuocNgoai.cs",
+              "RelativeToolTip": "bai5_btvn\\KhachHangNuocNgoai.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvwgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:04:57.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHang.cs",
+              "RelativeDocumentMoniker": "bai5_btvn\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\KhachHang.cs",
+              "RelativeToolTip": "bai5_btvn\\KhachHang.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:04:24.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\Program.cs",
+              "RelativeDocumentMoniker": "bai5_btvn\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai5_btvn\\Program.cs",
+              "RelativeToolTip": "bai5_btvn\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:03:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HanhKhach.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\HanhKhach.cs",
+              "RelativeDocumentMoniker": "bai4_btvn\\HanhKhach.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\HanhKhach.cs",
+              "RelativeToolTip": "bai4_btvn\\HanhKhach.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:57:58.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\Nguoi.cs",
+              "RelativeDocumentMoniker": "bai4_btvn\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\Nguoi.cs",
+              "RelativeToolTip": "bai4_btvn\\Nguoi.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:57:07.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeMayBay.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\VeMayBay.cs",
+              "RelativeDocumentMoniker": "bai4_btvn\\VeMayBay.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\VeMayBay.cs",
+              "RelativeToolTip": "bai4_btvn\\VeMayBay.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:53:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\Program.cs",
+              "RelativeDocumentMoniker": "bai4_btvn\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai4_btvn\\Program.cs",
+              "RelativeToolTip": "bai4_btvn\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:52:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VanDongVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai3_btvn\\VanDongVien.cs",
+              "RelativeDocumentMoniker": "bai3_btvn\\VanDongVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai3_btvn\\VanDongVien.cs",
+              "RelativeToolTip": "bai3_btvn\\VanDongVien.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:18:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai3_btvn\\Program.cs",
+              "RelativeDocumentMoniker": "bai3_btvn\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai3_btvn\\Program.cs",
+              "RelativeToolTip": "bai3_btvn\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:18:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai2_btvn\\SinhVien.cs",
+              "RelativeDocumentMoniker": "bai2_btvn\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai2_btvn\\SinhVien.cs",
+              "RelativeToolTip": "bai2_btvn\\SinhVien.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:17:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai2_btvn\\Program.cs",
+              "RelativeDocumentMoniker": "bai2_btvn\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai2_btvn\\Program.cs",
+              "RelativeToolTip": "bai2_btvn\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:17:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\PhanSo.cs",
+              "RelativeDocumentMoniker": "bai1_btvn\\PhanSo.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\PhanSo.cs",
+              "RelativeToolTip": "bai1_btvn\\PhanSo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:01:07.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\.editorconfig",
+              "RelativeDocumentMoniker": "bai1_btvn\\.editorconfig",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\.editorconfig",
+              "RelativeToolTip": "bai1_btvn\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-27T04:00:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\Program.cs",
+              "RelativeDocumentMoniker": "bai1_btvn\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1_btvn\\Program.cs",
+              "RelativeToolTip": "bai1_btvn\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:00:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Teacher.cs",
+              "RelativeDocumentMoniker": "Bai2\\Teacher.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Teacher.cs",
+              "RelativeToolTip": "Bai2\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:31:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Student.cs",
+              "RelativeDocumentMoniker": "Bai2\\Student.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Student.cs",
+              "RelativeToolTip": "Bai2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:29:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Person.cs",
+              "RelativeDocumentMoniker": "Bai2\\Person.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Person.cs",
+              "RelativeToolTip": "Bai2\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:26:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:26:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Lab1\\bai1\\Program.cs",
+              "RelativeToolTip": "bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:47:26.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

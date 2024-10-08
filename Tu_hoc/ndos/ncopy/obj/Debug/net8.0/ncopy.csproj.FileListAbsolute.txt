@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\ndos\ncopy\bin\Debug\net8.0\ncopy.exe
+C:\Users\quant\source\repos\ndos\ncopy\bin\Debug\net8.0\ncopy.deps.json
+C:\Users\quant\source\repos\ndos\ncopy\bin\Debug\net8.0\ncopy.runtimeconfig.json
+C:\Users\quant\source\repos\ndos\ncopy\bin\Debug\net8.0\ncopy.dll
+C:\Users\quant\source\repos\ndos\ncopy\bin\Debug\net8.0\ncopy.pdb
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.AssemblyInfo.cs
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.dll
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\refint\ncopy.dll
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.pdb
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ncopy.genruntimeconfig.cache
+C:\Users\quant\source\repos\ndos\ncopy\obj\Debug\net8.0\ref\ncopy.dll

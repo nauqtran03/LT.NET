@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\linq2\luyentap1\bin\Debug\net8.0\luyentap1.exe
+C:\Users\quant\source\repos\linq2\luyentap1\bin\Debug\net8.0\luyentap1.deps.json
+C:\Users\quant\source\repos\linq2\luyentap1\bin\Debug\net8.0\luyentap1.runtimeconfig.json
+C:\Users\quant\source\repos\linq2\luyentap1\bin\Debug\net8.0\luyentap1.dll
+C:\Users\quant\source\repos\linq2\luyentap1\bin\Debug\net8.0\luyentap1.pdb
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.AssemblyInfo.cs
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.dll
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\refint\luyentap1.dll
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.pdb
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\luyentap1.genruntimeconfig.cache
+C:\Users\quant\source\repos\linq2\luyentap1\obj\Debug\net8.0\ref\luyentap1.dll

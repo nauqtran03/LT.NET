@@ -1,0 +1,14 @@
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\bin\Debug\net8.0\Ngay15_8.exe
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\bin\Debug\net8.0\Ngay15_8.deps.json
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\bin\Debug\net8.0\Ngay15_8.runtimeconfig.json
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\bin\Debug\net8.0\Ngay15_8.dll
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\bin\Debug\net8.0\Ngay15_8.pdb
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.AssemblyInfoInputs.cache
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.AssemblyInfo.cs
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.dll
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\refint\Ngay15_8.dll
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.pdb
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\Ngay15_8.genruntimeconfig.cache
+C:\Users\quant\source\repos\Ngay15_8\Ngay15_8\obj\Debug\net8.0\ref\Ngay15_8.dll
