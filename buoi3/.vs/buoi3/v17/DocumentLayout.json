@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7D9884-D6F0-4955-BC6A-C77B54DE9DCD}|buoi3\\buoi3.csproj|c:\\users\\quant\\source\\repos\\buoi3\\buoi3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C7D9884-D6F0-4955-BC6A-C77B54DE9DCD}|buoi3\\buoi3.csproj|solutionrelative:buoi3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\buoi3\\buoi3\\Form1.cs",
+              "RelativeDocumentMoniker": "buoi3\\Form1.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\buoi3\\buoi3\\Form1.cs [Design]",
+              "RelativeToolTip": "buoi3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:01:43.091Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
