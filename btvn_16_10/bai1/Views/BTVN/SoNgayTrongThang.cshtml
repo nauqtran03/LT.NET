@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "SoNgayTrongThang";
+}
+
+<h2>SoNgayTrongThang</h2>
+
+@{ 
+    int thang = (int)ViewBag.thang;
+    int nam = (int)ViewBag.nam;
+    string mess = "";
+
+    if (thang<1||thang >12)
+    {
+        mess += "Thang khong hop le.";
+    }
+    else if (nam <1 )
+    {
+        mess += "Nam khong hop le.";
+    }
+    int soNgay = DateTime.DaysInMonth(nam,thang);
+    mess += $"Thang {thang} Nam {nam} co {soNgay} ngay.";
+}
+<p>@mess</p>

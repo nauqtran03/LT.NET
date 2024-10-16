@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "PTB2";
+}
+
+<h2>PTB2</h2>
+@{ 
+    decimal a = ViewBag.a;
+    decimal b = ViewBag.b;
+    decimal c = ViewBag.c;
+
+    string kq = $"Phuong trinh {a}x^2 +{b}x+{c}";
+    if (a==0)
+    {
+        if (b != 0)
+        {
+            decimal x = -c / b;
+            kq += $"Phuong trinh co nghiem: x = {x}";
+        }
+        else
+        {
+            kq += "Phuong trinh vo nghiem.";
+        }
+    }
+    else
+    {
+        decimal delta = b * b + 4 * a * c;
+        if(delta > 0)
+        {
+            double sqrtDelta = Math.Sqrt((double) delta);
+            decimal x1 = Math.Round(((-b + (decimal)sqrtDelta) / (2 * a)),2);
+            decimal x2 = Math.Round(((-b - (decimal)sqrtDelta) / (2 * a)), 2);
+
+            kq += $"Phuong trinh co 2 nghiem phan biet: x1 = {x1}, x2 = {x2}";
+        }else if (delta == 0)
+        {
+            decimal x = -b / 2 * a;
+            kq += $"Phuong trinh co nghiem kep: x = {x}";
+        }
+        else
+        {
+            kq += "Phuong trinh vo nghiem vi delta < 0";
+        }
+    }
+    <p>@kq</p>
+}

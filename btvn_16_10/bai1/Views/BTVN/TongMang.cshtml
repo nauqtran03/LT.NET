@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "TongMang";
+}
+
+<h2>TongMang</h2>
+@if(ViewBag.MangNguyenTo != null && ViewBag.MangNguyenTo.Count > 0)
+            {
+                <p>Cac so nguyen to trong mang: @string.Join(",",ViewBag.MangNguyenTo)</p>
+                <p>Tong cac song nguyen to: @ViewBag.TongSoNguyenTo</p>
+}
+else
+            {
+                <p>Khong co gia tri nguyen to nao trong mang.</p>
+            }

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Brown";
+}
+
+<h2>Brown</h2>
+<html>
+
+<body>
+    @{ Html.BeginForm("Browse", "Home");}
+    @*Tạo một form Html bắt đầu với action là phương thức Browse trong Controller Home. Khi form cha
+        chạy được submit , nó sẽ gửi dữ liệu đến hành đồng Browsw trong Controller Home*@
+    @Html.Label("User Name: ")</br>
+    @*Tạo các nhãn label cho các input trong form, giúp người dùng biết thông tin cần điền vào *@
+</body>
+</html>
