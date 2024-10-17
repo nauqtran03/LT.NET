@@ -1,0 +1,17 @@
+﻿@model Controller_View.Models.UCLN
+@{
+    ViewBag.Title = "TimUCLN2";
+}
+
+<h2>TimUCLN2</h2>
+@{ Html.BeginForm();}
+@Html.LabelFor(n => n.a)
+@Html.EditorFor(m => m.a)
+<br />
+@Html.LabelFor(n => n.b)
+@Html.TextBoxFor(m => m.b)
+<br />
+<input type="submit" value="Tim UCLN" />
+@{ Html.EndForm();}
+<p>@ViewBag.msg</p>
+

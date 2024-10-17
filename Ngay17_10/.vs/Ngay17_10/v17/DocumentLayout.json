@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|c:\\users\\quant\\source\\repos\\ngay17_10\\controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\controllers\\giaibaitoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\controllers\\giaibaitoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\nhapdlbt_ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\nhapdlbt_ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\models\\ucln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\models\\ucln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\truyentapdoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\truyentapdoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimUCLN2.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T05:18:15.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T05:11:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCLN.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\UCLN.cs",
+              "RelativeDocumentMoniker": "Controller_View\\Models\\UCLN.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\UCLN.cs",
+              "RelativeToolTip": "Controller_View\\Models\\UCLN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:03:33.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TruyenTapDoiTuong.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T03:47:56.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TruyenDoiTuong.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T03:22:31.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Controller_View\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\Users.cs",
+              "RelativeToolTip": "Controller_View\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:14:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Web.config",
+              "RelativeDocumentMoniker": "Controller_View\\Web.config",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Web.config",
+              "RelativeToolTip": "Controller_View\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-17T02:53:58.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapDLBT_UCLN.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T02:50:46.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Controller_View\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Controller_View\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:35:32.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controller_View\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controller_View\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:33:22.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Web.config",
+              "RelativeToolTip": "Controller_View\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-17T02:19:27.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T02:18:16.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaiBaiToanController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\GiaiBaiToanController.cs",
+              "RelativeDocumentMoniker": "Controller_View\\Controllers\\GiaiBaiToanController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\GiaiBaiToanController.cs",
+              "RelativeToolTip": "Controller_View\\Controllers\\GiaiBaiToanController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwF4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:16:33.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

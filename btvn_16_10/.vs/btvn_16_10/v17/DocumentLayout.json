@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\tongmang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\tongmang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\home\\brown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\home\\brown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\tongmang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\tongmang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\btvn\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\btvn\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{DD98719A-5277-4E89-B440-6D51958ABE00}|bai1\\bai1.csproj|solutionrelative:bai1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Brown.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Views\\Home\\Brown.cshtml",
               "RelativeDocumentMoniker": "bai1\\Views\\Home\\Brown.cshtml",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TongMang.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Views\\BTVN\\TongMang.cshtml",
               "RelativeDocumentMoniker": "bai1\\Views\\BTVN\\TongMang.cshtml",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "SoNgayTrongThang.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Views\\BTVN\\SoNgayTrongThang.cshtml",
               "RelativeDocumentMoniker": "bai1\\Views\\BTVN\\SoNgayTrongThang.cshtml",
@@ -102,18 +102,17 @@
               "RelativeToolTip": "bai1\\Views\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-16T09:05:27.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:05:27.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PTB2.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Views\\BTVN\\PTB2.cshtml",
               "RelativeDocumentMoniker": "bai1\\Views\\BTVN\\PTB2.cshtml",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Views\\BTVN\\PTB2.cshtml",
               "RelativeToolTip": "bai1\\Views\\BTVN\\PTB2.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAADwvx8AAAAqAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvx8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-16T09:04:40.266Z",
               "EditorCaption": ""
@@ -126,7 +125,7 @@
               "RelativeDocumentMoniker": "bai1\\Controllers\\BTVNController.cs",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\btvn_16_10\\bai1\\Controllers\\BTVNController.cs",
               "RelativeToolTip": "bai1\\Controllers\\BTVNController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwDAAAAAMAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T08:54:15.53Z",
               "EditorCaption": ""

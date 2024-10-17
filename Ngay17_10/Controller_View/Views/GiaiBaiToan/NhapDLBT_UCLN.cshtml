@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "NhapDLBT_UCLN";
+}
+
+<h2>TimUCLN</h2>
+@{Html.BeginForm("TimUCLN", "GiaiBaiToan", FormMethod.Post);}
+@Html.Label("Nhập số nguyên thứ nhất a= ")
+@Html.TextBox("a")
+@Html.Label("Nhập số nguyên thứ hai b= ")
+@Html.TextBox("b")
+<input type="submit" name="name" value="Tìm UCLN" />
+@{ Html.EndForm();}
