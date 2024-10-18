@@ -184,6 +184,7 @@
     <Content Include="Views\GiaiBaiToan\TruyenDoiTuong.cshtml" />
     <Content Include="Views\GiaiBaiToan\TruyenTapDoiTuong.cshtml" />
     <Content Include="Views\GiaiBaiToan\TimUCLN2.cshtml" />
+    <Content Include="Views\GiaiBaiToan\TimUCLN.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -15,6 +15,7 @@ namespace Controller_View.Controllers
             string msg = $"{u.Id} <br/> {u.Name} <br/>{u.Address} <br/>{u.Email} <br/>{u.Password} <br/> ";
             return Content(msg);
         }
+        
         public ActionResult TruyenDoiTuong() 
         {
             var user = new Users
@@ -67,10 +68,10 @@ namespace Controller_View.Controllers
             return View(users);
         }
         
-        public ActionResult NhapDLBT_UCLN()
-        {
-            return View();
-        }
+        //public ActionResult NhapDLBT_UCLN()
+        //{
+        //    return View();
+        //}
         public ActionResult TimUCLN()
         {
             return View();
@@ -85,7 +86,9 @@ namespace Controller_View.Controllers
                 else b = b - a;
             }
             mess += $"{a}";
-            return Content(mess);
+            ViewBag.mess = mess ;
+            return View();
+            //return Content(mess);
         }
         public ActionResult TimUCLN2()
         {

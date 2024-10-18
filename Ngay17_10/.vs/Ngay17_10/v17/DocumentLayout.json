@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|c:\\users\\quant\\source\\repos\\ngay17_10\\controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\controllers\\giaibaitoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\controllers\\giaibaitoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\timucln2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|c:\\users\\quant\\source\\repos\\ngay17_10\\controller_view\\views\\giaibaitoan\\timucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\timucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\giaibaitoan\\nhapdlbt_ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\nhapdlbt_ucln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|c:\\users\\quant\\source\\repos\\ngay17_10\\controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|solutionrelative:controller_view\\views\\giaibaitoan\\truyendoituong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC179799-7362-4686-96C7-CAFF90BDA462}|Controller_View\\Controller_View.csproj|C:\\Users\\quant\\source\\repos\\Ngay17_10\\controller_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,8 +66,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimUCLN.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TimUCLN.cshtml",
+              "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TimUCLN.cshtml",
+              "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:17:32.352Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -72,14 +89,14 @@
               "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
               "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TimUCLN2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T05:18:15.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Controller_View\\Views\\Shared\\_Layout.cshtml",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UCLN.cs",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\UCLN.cs",
               "RelativeDocumentMoniker": "Controller_View\\Models\\UCLN.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TruyenTapDoiTuong.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
               "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TruyenTapDoiTuong.cshtml",
@@ -115,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TruyenDoiTuong.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
               "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
               "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\TruyenDoiTuong.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAmAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T03:22:31.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Controller_View\\Models\\Users.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Web.config",
               "RelativeDocumentMoniker": "Controller_View\\Web.config",
@@ -159,13 +176,14 @@
               "RelativeDocumentMoniker": "Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
               "RelativeToolTip": "Controller_View\\Views\\GiaiBaiToan\\NhapDLBT_UCLN.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T02:50:46.334Z"
+              "WhenOpened": "2024-10-17T02:50:46.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Controller_View\\App_Start\\RouteConfig.cs",
@@ -177,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controller_View\\Controllers\\HomeController.cs",
@@ -189,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\Web.config",
               "RelativeDocumentMoniker": "Controller_View\\Views\\Web.config",
@@ -201,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Controller_View\\Views\\_ViewStart.cshtml",
@@ -213,15 +231,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GiaiBaiToanController.cs",
               "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\GiaiBaiToanController.cs",
               "RelativeDocumentMoniker": "Controller_View\\Controllers\\GiaiBaiToanController.cs",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\Ngay17_10\\Controller_View\\Controllers\\GiaiBaiToanController.cs",
               "RelativeToolTip": "Controller_View\\Controllers\\GiaiBaiToanController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAuwF4AAAAgAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:16:33.944Z"
+              "WhenOpened": "2024-10-17T02:16:33.944Z",
+              "EditorCaption": ""
             }
           ]
         }
