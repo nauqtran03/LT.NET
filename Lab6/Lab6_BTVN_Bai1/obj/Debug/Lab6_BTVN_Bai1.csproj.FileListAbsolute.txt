@@ -8,3 +8,13 @@ D:\LT.Net\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.csproj.GenerateResource.c
 D:\LT.Net\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.csproj.CoreCompileInputs.cache
 D:\LT.Net\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.exe
 D:\LT.Net\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.pdb
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\bin\Debug\Lab6_BTVN_Bai1.exe.config
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\bin\Debug\Lab6_BTVN_Bai1.exe
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\bin\Debug\Lab6_BTVN_Bai1.pdb
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.Form1.resources
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.Properties.Resources.resources
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.exe
+C:\Users\quant\source\repos\Lab6\Lab6_BTVN_Bai1\obj\Debug\Lab6_BTVN_Bai1.pdb
