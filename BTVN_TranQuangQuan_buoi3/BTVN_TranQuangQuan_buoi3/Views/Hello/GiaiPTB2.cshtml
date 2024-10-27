@@ -1,0 +1,22 @@
+﻿@model BTVN_TranQuangQuan_buoi3.Models.PhuongTrinhBacHai
+@{
+    ViewBag.Title = "GiaiPTB2";
+}
+<h2>GiaiPTB2</h2>
+@{ Html.BeginForm();}
+@Html.LabelFor(m => m.A)
+@Html.EditorFor(m => m.A)
+<br />
+@Html.LabelFor(m => m.B)
+@Html.EditorFor(m => m.B)
+<br />
+@Html.LabelFor(m => m.C)
+@Html.EditorFor(m => m.C)
+<br />
+<input type="submit" value="Giải PTB2" />
+
+@if (ViewBag.KetQua != null)
+{
+    <h3>Kết Qủa</h3>
+    <p>@ViewBag.KetQua</p>
+}

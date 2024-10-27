@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "TruyenSinhVien";
+}
+
+<h2>TruyenSinhVien</h2>
+
+@{
+    var sinhVien = ViewBag.sinhVien as List<BTVN_TranQuangQuan_buoi3.Models.SinhVien>;
+
+    foreach (var item in sinhVien)
+    {
+        <p>@item.MaSinhVien</p>
+        <p>@item.HoTen</p>
+        <p>@item.NgaySinh</p>
+        <p>@item.GioiTinh</p>
+        <p>@item.QueQuan</p>
+        <p>@item.LopHoc</p>
+    }
+}

@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|c:\\users\\quant\\source\\repos\\baikiemtra_25_10\\baikiemtra_25_10\\form2_21103100304.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form2_21103100304.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\form2_21103100304.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form2_21103100304.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\repositories\\nhanvienrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\repositories\\nhanvienrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\domainclass\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\domainclass\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\form2_21103100304.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\form2_21103100304.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\baikiemtra_25_10\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77C7BFD-822E-4F83-B0A9-7C4675D9A680}|BaiKiemTra_25_10\\BaiKiemTra_25_10.csproj|solutionrelative:baikiemtra_25_10\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2_21103100304.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:26:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\App.config",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\App.config",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\App.config",
+              "RelativeToolTip": "BaiKiemTra_25_10\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T13:21:52.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\DomainClass\\Employees.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\DomainClass\\Employees.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\DomainClass\\Employees.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\DomainClass\\Employees.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:49:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVienRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Repositories\\NhanVienRepositories.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Repositories\\NhanVienRepositories.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Repositories\\NhanVienRepositories.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Repositories\\NhanVienRepositories.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:32:38.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2_21103100304.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.Designer.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form2_21103100304.Designer.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.Designer.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form2_21103100304.Designer.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAowBMBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:26:40.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2_21103100304.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form2_21103100304.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form2_21103100304.cs [Design]",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form2_21103100304.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:21:41.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Context\\DBContext.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Context\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:20:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form1.Designer.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:52:57.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form1.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.cs",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form1.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAwBEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:51:13.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra_25_10\\Form1.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BaiKiemTra_25_10\\BaiKiemTra_25_10\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiKiemTra_25_10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:22:16.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

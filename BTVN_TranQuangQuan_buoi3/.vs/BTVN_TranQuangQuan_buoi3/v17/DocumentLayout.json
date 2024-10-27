@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\models\\phuongtrinhbachai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\models\\phuongtrinhbachai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\hello\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\hello\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\hello\\giaiptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\hello\\giaiptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|c:\\users\\quant\\source\\repos\\btvn_tranquangquan_buoi3\\btvn_tranquangquan_buoi3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\hello\\truyensinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\hello\\truyensinhvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\hello\\sohoanhao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\hello\\sohoanhao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\views\\hello\\sochinhphuong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\views\\hello\\sochinhphuong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\btvn_tranquangquan_buoi3\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E648EAB-74BC-408F-8951-29E7CCDC6A95}|BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3.csproj|solutionrelative:btvn_tranquangquan_buoi3\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 284,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:20:21.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:19:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TruyenSinhVien.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\TruyenSinhVien.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\TruyenSinhVien.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\TruyenSinhVien.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\TruyenSinhVien.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:13:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiaiPTB2.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\GiaiPTB2.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\GiaiPTB2.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\GiaiPTB2.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\GiaiPTB2.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:12:38.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoChinhPhuong.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoChinhPhuong.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoChinhPhuong.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoChinhPhuong.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoChinhPhuong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:12:23.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoHoanHao.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoHoanHao.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoHoanHao.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoHoanHao.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\SoHoanHao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:12:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\Address.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\Address.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Views\\Hello\\Address.cshtml",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Views\\Hello\\Address.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T16:11:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Models\\SinhVien.cs",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:10:53.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhuongTrinhBacHai.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Models\\PhuongTrinhBacHai.cs",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Models\\PhuongTrinhBacHai.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Models\\PhuongTrinhBacHai.cs",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Models\\PhuongTrinhBacHai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:10:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "BTVN_TranQuangQuan_buoi3\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\BTVN_TranQuangQuan_buoi3\\BTVN_TranQuangQuan_buoi3\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "BTVN_TranQuangQuan_buoi3\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:09:02.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

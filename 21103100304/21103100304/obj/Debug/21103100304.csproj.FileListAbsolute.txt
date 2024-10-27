@@ -1,0 +1,6 @@
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\21103100304.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\_21103100304.Form1.resources
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\_21103100304.Form2.resources
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\_21103100304.Properties.Resources.resources
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\21103100304.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\21103100304\21103100304\obj\Debug\21103100304.csproj.CoreCompileInputs.cache
