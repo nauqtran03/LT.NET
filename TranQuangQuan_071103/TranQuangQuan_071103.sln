@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranQuangQuan_071103", "TranQuangQuan_071103\TranQuangQuan_071103.csproj", "{D5390571-0374-4473-8891-11197AA46D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5390571-0374-4473-8891-11197AA46D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5390571-0374-4473-8891-11197AA46D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5390571-0374-4473-8891-11197AA46D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5390571-0374-4473-8891-11197AA46D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D498CF67-6681-4934-9C17-ECAD635E1708}
+	EndGlobalSection
+EndGlobal

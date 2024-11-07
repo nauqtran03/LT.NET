@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|c:\\users\\quant\\downloads\\btvn_tuan4\\btvn_tuan4\\btvn_tuan4\\views\\nhanvien\\totalsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\totalsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\findbydepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\findbydepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\findgirl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\findgirl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\btvn_tuan4\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBFC6E1-8432-4E6C-8C10-BD7E9B5FE044}|BTVN_Tuan4\\BTVN_Tuan4.csproj|solutionrelative:btvn_tuan4\\views\\nhanvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BTVN_Tuan4\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:19:41.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "BTVN_Tuan4\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:19:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BTVN_Tuan4\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:19:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:19:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:19:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:19:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TotalSalary.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\TotalSalary.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\TotalSalary.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\TotalSalary.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\TotalSalary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:43:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindByDepartment.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\FindByDepartment.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\FindByDepartment.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\FindByDepartment.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\FindByDepartment.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T15:28:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FindGirl.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\FindGirl.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\FindGirl.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\FindGirl.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\FindGirl.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:04:20.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Models\\NhanVien.cs",
+              "RelativeToolTip": "BTVN_Tuan4\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:57:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\Details.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Details.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:55:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Delete.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:54:53.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\Edit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:29:58.066Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Create.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T12:10:51.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "BTVN_Tuan4\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAA8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T10:49:37.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "BTVN_Tuan4\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\quant\\Downloads\\BTVN_Tuan4\\BTVN_Tuan4\\BTVN_Tuan4\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "BTVN_Tuan4\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowK8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:38:58.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
