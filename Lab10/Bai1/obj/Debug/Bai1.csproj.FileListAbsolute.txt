@@ -1,0 +1,10 @@
+C:\Users\quant\source\repos\Lab10\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\quant\source\repos\Lab10\Bai1\bin\Debug\Bai1.exe
+C:\Users\quant\source\repos\Lab10\Bai1\bin\Debug\Bai1.pdb
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.exe
+C:\Users\quant\source\repos\Lab10\Bai1\obj\Debug\Bai1.pdb

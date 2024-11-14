@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Tuan7_TranQuangQuan_21103100304.Models.SoSVTungLop>
+
+@{
+    ViewBag.Title = "DemSVTungLop";
+}
+
+<h2>DemSVTungLop</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenLop)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SiSo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenLop)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SiSo)
+        </td>
+    </tr>
+}
+
+</table>
