@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{77D5BE33-1664-4996-8A2E-F0B15432A000}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEAC9996-594F-47D9-AA82-B5D106EE3EAF}|bai1\\bai1.csproj|c:\\users\\quant\\source\\repos\\lab7\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEAC9996-594F-47D9-AA82-B5D106EE3EAF}|bai1\\bai1.csproj|C:\\Users\\quant\\source\\repos\\lab7\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEAC9996-594F-47D9-AA82-B5D106EE3EAF}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10522866-2D8E-43E8-9FA4-F4BE1E57CA43}|bai2\\bai2.csproj|c:\\users\\quant\\source\\repos\\lab7\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10522866-2D8E-43E8-9FA4-F4BE1E57CA43}|bai2\\bai2.csproj|C:\\Users\\quant\\source\\repos\\lab7\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10522866-2D8E-43E8-9FA4-F4BE1E57CA43}|bai2\\bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 255,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -36,10 +44,18 @@
               "RelativeDocumentMoniker": "bai3\\Program.cs",
               "ToolTip": "C:\\Users\\quant\\source\\repos\\lab7\\bai3\\Program.cs",
               "RelativeToolTip": "bai3\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T13:02:03.721Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -51,8 +67,7 @@
               "RelativeToolTip": "bai2\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:37:59.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T12:37:59.595Z"
             },
             {
               "$type": "Document",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "bai1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:26:16.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T12:26:16.318Z"
             }
           ]
         }

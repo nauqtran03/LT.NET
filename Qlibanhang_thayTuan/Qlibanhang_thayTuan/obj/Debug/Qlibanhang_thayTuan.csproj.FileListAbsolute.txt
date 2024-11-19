@@ -1,0 +1,13 @@
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\bin\Debug\Qlibanhang_thayTuan.exe.config
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\bin\Debug\Qlibanhang_thayTuan.exe
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\bin\Debug\Qlibanhang_thayTuan.pdb
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.csproj.AssemblyReference.cache
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.Form1.resources
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.Properties.Resources.resources
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.csproj.GenerateResource.cache
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.csproj.CoreCompileInputs.cache
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.exe
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.pdb
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.Form2.resources
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.Form3.resources
+C:\Users\quant\source\repos\Qlibanhang_thayTuan\Qlibanhang_thayTuan\obj\Debug\Qlibanhang_thayTuan.Form4.resources

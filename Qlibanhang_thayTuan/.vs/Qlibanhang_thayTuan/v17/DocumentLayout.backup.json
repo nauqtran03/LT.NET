@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Qlibanhang_thayTuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E998E63-2949-4C78-A43B-85E5F2DE9671}|Qlibanhang_thayTuan\\Qlibanhang_thayTuan.csproj|c:\\users\\quant\\source\\repos\\qlibanhang_thaytuan\\qlibanhang_thaytuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E998E63-2949-4C78-A43B-85E5F2DE9671}|Qlibanhang_thayTuan\\Qlibanhang_thayTuan.csproj|solutionrelative:qlibanhang_thaytuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E998E63-2949-4C78-A43B-85E5F2DE9671}|Qlibanhang_thayTuan\\Qlibanhang_thayTuan.csproj|c:\\users\\quant\\source\\repos\\qlibanhang_thaytuan\\qlibanhang_thaytuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E998E63-2949-4C78-A43B-85E5F2DE9671}|Qlibanhang_thayTuan\\Qlibanhang_thayTuan.csproj|solutionrelative:qlibanhang_thaytuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Qlibanhang_thayTuan\\Qlibanhang_thayTuan\\Form1.cs",
+              "RelativeDocumentMoniker": "Qlibanhang_thayTuan\\Form1.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Qlibanhang_thayTuan\\Qlibanhang_thayTuan\\Form1.cs*",
+              "RelativeToolTip": "Qlibanhang_thayTuan\\Form1.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:01:18.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Qlibanhang_thayTuan\\Qlibanhang_thayTuan\\Form1.cs",
+              "RelativeDocumentMoniker": "Qlibanhang_thayTuan\\Form1.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Qlibanhang_thayTuan\\Qlibanhang_thayTuan\\Form1.cs [Design]*",
+              "RelativeToolTip": "Qlibanhang_thayTuan\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:07:09.146Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
