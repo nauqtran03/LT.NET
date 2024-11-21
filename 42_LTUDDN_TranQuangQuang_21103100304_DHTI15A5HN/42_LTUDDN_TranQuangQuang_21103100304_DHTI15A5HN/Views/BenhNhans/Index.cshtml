@@ -1,0 +1,52 @@
+﻿@model IEnumerable<_42_LTUDDN_TranQuangQuang_21103100304_DHTI15A5HN.Models.BenhNhan>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Tìm Kiếm Bênh Nhân", "TimKiemBN")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.HoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgaySinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GioiTinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SDT_)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.HoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgaySinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GioiTinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SDT_)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaBN }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaBN }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaBN })
+        </td>
+    </tr>
+}
+
+</table>

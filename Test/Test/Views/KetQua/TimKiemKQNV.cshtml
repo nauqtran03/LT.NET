@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Test.Models.KetQua>
+
+@{
+    ViewBag.Title = "TimKiemKQNV";
+}
+
+<h2>Tìm kiếm</h2>
+
+@using (Html.BeginForm())
+            {
+                <div class="form-group">
+                    @Html.Label("Mời bạn nhập tên nhân viên: ")
+                    @Html.TextBox("tenNV")
+                </div>
+                <button type="submit">Tìm kiếm</button>
+            }    
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaNV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NhanVien.HoTenNV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenSP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DonGia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoLuong_)
+        </th>
+
+        <th>
+            Thành Tiền
+        </th>
+    </tr>
+    @if (!String.IsNullOrEmpty(ViewBag.TenNV) && Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaNV)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NhanVien.HoTenNV)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DonGia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLuong_)
+                </td>
+                <td>
+                    @(item.SoLuong_*item.DonGia)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.MaNV, tenSP = item.TenSP }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.MaNV, tenSP = item.TenSP }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MaNV, tenSP = item.TenSP })
+                </td>
+            </tr>
+        }
+    }
+
+
+</table>

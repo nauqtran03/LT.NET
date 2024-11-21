@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quant\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|c:\\users\\quant\\source\\repos\\test\\test\\views\\ketqua\\timkiemkqnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|solutionrelative:test\\views\\ketqua\\timkiemkqnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|c:\\users\\quant\\source\\repos\\test\\test\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|solutionrelative:test\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|c:\\users\\quant\\source\\repos\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|c:\\users\\quant\\source\\repos\\test\\test\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA502761-A591-410B-A0BF-4BE5C3473CAA}|Test\\Test.csproj|solutionrelative:test\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimKiemKQNV.cshtml",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Views\\KetQua\\TimKiemKQNV.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\KetQua\\TimKiemKQNV.cshtml",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Views\\KetQua\\TimKiemKQNV.cshtml",
+              "RelativeToolTip": "Test\\Views\\KetQua\\TimKiemKQNV.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:32:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetQuaController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\KetQuaController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\KetQuaController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\KetQuaController.cs",
+              "RelativeToolTip": "Test\\Controllers\\KetQuaController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:32:28.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:32:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\quant\\source\\repos\\Test\\Test\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "Test\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:32:22.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

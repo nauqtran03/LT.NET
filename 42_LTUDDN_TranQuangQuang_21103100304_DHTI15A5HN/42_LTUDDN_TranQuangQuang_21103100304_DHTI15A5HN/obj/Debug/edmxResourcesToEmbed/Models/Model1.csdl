@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TranQuangQuanModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BenhNhan">
+    <Key>
+      <PropertyRef Name="MaBN" />
+    </Key>
+    <Property Name="MaBN" Type="Int32" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="GioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="SDT_" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="LichHens" Relationship="Self.FK_LichHen_BenhNhan" FromRole="BenhNhan" ToRole="LichHen" />
+  </EntityType>
+  <EntityType Name="LichHen">
+    <Key>
+      <PropertyRef Name="MaLichHen" />
+      <PropertyRef Name="MaBN" />
+    </Key>
+    <Property Name="MaLichHen" Type="Int32" Nullable="false" />
+    <Property Name="MaBN" Type="Int32" Nullable="false" />
+    <Property Name="NgayHen_" Type="DateTime" Precision="3" />
+    <Property Name="BacSi_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LyDo_" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BenhNhan" Relationship="Self.FK_LichHen_BenhNhan" FromRole="LichHen" ToRole="BenhNhan" />
+  </EntityType>
+  <Association Name="FK_LichHen_BenhNhan">
+    <End Role="BenhNhan" Type="Self.BenhNhan" Multiplicity="1" />
+    <End Role="LichHen" Type="Self.LichHen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BenhNhan">
+        <PropertyRef Name="MaBN" />
+      </Principal>
+      <Dependent Role="LichHen">
+        <PropertyRef Name="MaBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TranQuangQuanEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BenhNhans" EntityType="Self.BenhNhan" />
+    <EntitySet Name="LichHens" EntityType="Self.LichHen" />
+    <AssociationSet Name="FK_LichHen_BenhNhan" Association="Self.FK_LichHen_BenhNhan">
+      <End Role="BenhNhan" EntitySet="BenhNhans" />
+      <End Role="LichHen" EntitySet="LichHens" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

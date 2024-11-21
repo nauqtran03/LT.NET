@@ -1,0 +1,63 @@
+﻿@model IEnumerable<_42_LTUDDN_TranQuangQuang_21103100304_DHTI15A5HN.Models.LichHen>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaLichHen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayHen_)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BacSi_)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LyDo_)
+        </th>
+        <th>
+            SoLuong
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaLichHen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaBN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayHen_)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BacSi_)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LyDo_)
+        </td>
+        <td>
+            @(item.BacSi_.Count())
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaLichHen, MaBN = item.MaBN}) |
+            @Html.ActionLink("Details", "Details", new { id = item.MaLichHen, MaBN = item.MaBN } ) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.MaLichHen, MaBN = item.MaBN } )
+        </td>
+    </tr>
+}
+
+</table>

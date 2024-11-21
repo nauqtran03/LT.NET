@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TranQuangQuanModelStoreContainer" CdmEntityContainer="TranQuangQuanEntities">
+    <EntitySetMapping Name="BenhNhans">
+      <EntityTypeMapping TypeName="TranQuangQuanModel.BenhNhan">
+        <MappingFragment StoreEntitySet="BenhNhan">
+          <ScalarProperty Name="MaBN" ColumnName="MaBN" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="SDT_" ColumnName="SDT " />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LichHens">
+      <EntityTypeMapping TypeName="TranQuangQuanModel.LichHen">
+        <MappingFragment StoreEntitySet="LichHen">
+          <ScalarProperty Name="MaLichHen" ColumnName="MaLichHen" />
+          <ScalarProperty Name="MaBN" ColumnName="MaBN" />
+          <ScalarProperty Name="NgayHen_" ColumnName="NgayHen " />
+          <ScalarProperty Name="BacSi_" ColumnName="BacSi " />
+          <ScalarProperty Name="LyDo_" ColumnName="LyDo " />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
